@@ -1,0 +1,15 @@
+@import "_header.scss";
+@import "_navBar.scss";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+body{
+    background-color: #8C8C8C;
+}
